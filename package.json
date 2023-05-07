@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint .",
-    "build": "your build command here"
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",

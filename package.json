@@ -32,5 +32,12 @@
   "dependencies": {
     "core-js": "^3.30.0",
     "webpack": "^5.82.0"
-  }
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "not dead",
+    "supports-jsonp"
+  ]
+  
 }

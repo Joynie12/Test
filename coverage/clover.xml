@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1682179580904" clover="3.2.0">
-  <project timestamp="1682179580904" name="All files">
+<coverage generated="1682524232508" clover="3.2.0">
+  <project timestamp="1682524232508" name="All files">
     <metrics statements="5" coveredstatements="5" conditionals="10" coveredconditionals="9" methods="1" coveredmethods="1" elements="16" coveredelements="15" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="herohealth.js" path="/home/vika/Учеба/Test/herohealth.js">
       <metrics statements="5" coveredstatements="5" conditionals="10" coveredconditionals="9" methods="1" coveredmethods="1"/>

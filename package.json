@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint .",
-    "build": "npm run build"
+    "build": "webpack --mode 'production'"
   },
   "repository": {
     "type": "git",

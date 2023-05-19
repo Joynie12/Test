@@ -1,4 +1,4 @@
-import { checkHealthStatus } from './herohealth';
+import { checkHealthStatus } from '../herohealth';
 
 test('health test - critical', () => {
   const character = { name: 'Маг', health: 3 };
